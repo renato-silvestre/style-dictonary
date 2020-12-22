@@ -1,0 +1,110 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "rs",
+  "last_updated": "2020-12-21T21:08:32.819Z",
+  "entities": [
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "6b210068-430c-431a-966d-3c571cfd3941",
+      "related_entity_ids": [
+        "542d33b6-5c88-4b7e-8418-abd21c149b82",
+        "4ce5304a-c17f-4394-943d-52b2a9ee9672",
+        "e7ef16b5-c5c9-4127-ada0-e4168f6e8b4f",
+        "f09042e5-c39b-4f44-b29f-83260379cc16"
+      ],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "button-primary-active",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/f8211a9d-34ce-44e3-5fa9-4f3801de03f9",
+        "id": "4ee257ad-509e-455a-ada8-0fc19b854f56",
+        "last_sync": "2020-12-21T21:08:32.817Z",
+        "sync": true
+      },
+      "last_updated": "2020-12-22T12:36:48.166Z",
+      "last_updated_by": "rs"
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "3fc38db6-6524-4e7c-a413-e79d70e47a47",
+      "related_entity_ids": [
+        "a40faa4e-4991-4789-ac86-c2afb8399bdb",
+        "bd99e5e0-d102-4ead-8965-811f8fa7a9e7",
+        "e7ef16b5-c5c9-4127-ada0-e4168f6e8b4f"
+      ],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "button-primary-disabled",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/f8211a9d-34ce-44e3-5fa9-4f3801de03f9",
+        "id": "c85e1e07-50ce-4b4c-ad24-0f5d6a75f9a4",
+        "last_sync": "2020-12-22T12:14:56.105Z",
+        "sync": true
+      },
+      "last_updated": "2020-12-22T12:29:22.369Z",
+      "last_updated_by": "rs"
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "30e13b6c-b90c-413e-aa64-fa8f1c45cefe",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "button-secondary-active",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/f8211a9d-34ce-44e3-5fa9-4f3801de03f9",
+        "id": "bc0bdc72-0be0-41ce-8a57-3d190a5affd2",
+        "last_sync": "2020-12-22T12:14:56.105Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "c6371e8b-4403-4915-b2c8-d1404340bc1b",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "button-secondary-disabled",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/f8211a9d-34ce-44e3-5fa9-4f3801de03f9",
+        "id": "0b6f0e5e-383b-46b0-854d-a02c716445a4",
+        "last_sync": "2020-12-22T12:14:56.105Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "8e9ee55f-7de2-44f5-a3f0-c69f7f85bf49",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "button-test",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/f8211a9d-34ce-44e3-5fa9-4f3801de03f9",
+        "id": "55640b92-3666-48b2-b5ee-d31a4c1ad18e",
+        "last_sync": "2020-12-21T21:08:32.817Z",
+        "sync": true
+      }
+    }
+  ]
+}

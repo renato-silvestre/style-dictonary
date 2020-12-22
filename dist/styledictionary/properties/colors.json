@@ -1,0 +1,58 @@
+{
+  "color": {
+    "color-background-button-primary-active": {
+      "value": "{color.color-base-yellow.value}"
+    },
+    "color-background-button-primary-disabled": {
+      "value": "{color.color-base-grey-light.value}"
+    },
+    "color-font-button-primary": {
+      "value": "{color.color-base-grey-dark.value}"
+    },
+    "color-base-brown": {
+      "value": "#85180Eff"
+    },
+    "color-base-blue-light": {
+      "value": "#CCE6FFff"
+    },
+    "color-base-blue": {
+      "value": "#0040BFff"
+    },
+    "color-base-green": {
+      "value": "#12591Eff"
+    },
+    "color-base-green-light": {
+      "value": "#DFFFD9ff"
+    },
+    "color-base-red-light": {
+      "value": "#FFD0CCff"
+    },
+    "color-base-yellow-light": {
+      "value": "#FFF2B3ff"
+    },
+    "color-base-red": {
+      "value": "#B3000Fff"
+    },
+    "color-base-grey-light": {
+      "value": "#E0E0E0ff"
+    },
+    "color-base-grey-medium": {
+      "value": "#737373ff"
+    },
+    "color-base-grey-dark": {
+      "value": "#333333ff"
+    },
+    "color-base-white": {
+      "value": "#FFFFFFff"
+    },
+    "color-base-grey-darkest": {
+      "value": "#1A1A1Aff"
+    },
+    "color-base-black": {
+      "value": "#000000ff"
+    },
+    "color-base-yellow": {
+      "value": "#FFCC00ff"
+    }
+  }
+}

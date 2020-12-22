@@ -1,0 +1,19 @@
+{
+  "font": {
+    "text-title": {
+      "family": {
+        "value": "Roboto"
+      },
+      "weight": {
+        "value": "Medium"
+      }
+    }
+  },
+  "size": {
+    "font": {
+      "text-title": {
+        "value": "14"
+      }
+    }
+  }
+}

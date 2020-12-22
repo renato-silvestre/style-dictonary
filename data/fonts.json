@@ -1,0 +1,42 @@
+{
+  "dsp_spec_version": "0.0.1",
+  "last_updated_by": "rs",
+  "last_updated": "2020-12-21T21:08:32.819Z",
+  "entities": [
+    {
+      "class": "collection",
+      "type": "font",
+      "id": "4ce5304a-c17f-4394-943d-52b2a9ee9672",
+      "name": "font",
+      "last_updated": "2020-12-21T21:13:23.237Z",
+      "last_updated_by": "rs",
+      "tags": [],
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/f8211a9d-34ce-44e3-5fa9-4f3801de03f9",
+        "id": "f536dfde-13eb-422a-9e17-673ba51d7ec3",
+        "last_sync": "2020-12-21T21:08:32.817Z",
+        "sync": true
+      },
+      "tokens": [
+        {
+          "id": "82e4c270-0353-4e38-8daa-ccdfef785578",
+          "type": "custom",
+          "value": "Roboto",
+          "key": "family"
+        },
+        {
+          "id": "82e4c270-0353-4e38-8daa-ccdfef785578",
+          "type": "custom",
+          "value": "Medium",
+          "key": "weight"
+        },
+        {
+          "id": "82e4c270-0353-4e38-8daa-ccdfef785578",
+          "type": "size",
+          "value": "14",
+          "key": "size"
+        }
+      ]
+    }
+  ]
+}
